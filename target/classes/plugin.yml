@@ -1,0 +1,7 @@
+name: PluginTemplate
+version: '1.0-SNAPSHOT'
+main: me.aarushkiller.plugintemplate.PluginTemplate
+api-version: 1.17
+authors: [ AarushKiller ]
+description: A Plugin Template for new plugin programmers!
+website: https://github.com/AarushKiller
